@@ -16,7 +16,7 @@
 
 <p>Observe que existem vários ambientes diferentes dentro do repositório, portanto escolha aquele que melhor atenda as suas necessidades. Realize os ajustes das versões das imagens utilizadas e  desejadas para parametrizar seus ambientes , e já pode usar.</p>
 
-<h3>=> Ambiente 1</h3>
+<h3>=> Ambiente 1 : PHP DOCKER SIMPLES</h3>
     <p>Trata-se de um ambiente que utiliza somente a imagem do PHP, sendo assim destina-se a estudos que tenham somente a necessidade de rodarmos o PHP na linha de comando de nosso editor de textos ou IDE. Não seria indicado utilizar esse ambiente em aplicações mais robustas. Como eu disse , trata-se de um ambiente ideal para realizarmos cursos mais básicos sobre PHP.</p>
     
 
