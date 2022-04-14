@@ -18,4 +18,10 @@
 
 <h3>=> Ambiente 1</h3>
     <p>Trata-se de um ambiente que utiliza somente a imagem do PHP, sendo assim destina-se a estudos que tenham somente a necessidade de rodarmos o PHP na linha de comando de nosso editor de textos ou IDE. Não seria indicado utilizar esse ambiente em aplicações mais robustas. Como eu disse , trata-se de um ambiente ideal para realizarmos cursos mais básicos sobre PHP.</p>
+    
+
+<p>Para “subir” o container através do Docker Compose execute o seguinte comando dentro da pasta do projeto:
+docker-compose up -d</p>
+<p>Você pode acessar o container através do browser no seguinte endereço:
+http://localhost:9000/  ou http://localhost:9000/views/paginaTeste.html ou http://localhost:9000/src/index.php </p>
 
